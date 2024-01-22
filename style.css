@@ -23,11 +23,17 @@ background: #4d4d4d;
     border-radius: 50%;
     border: 5px solid rgb(215,215,215);
 }
+.picture img{
+    width: 100%;
+    border-radius: 50%;
+}
 .container h1{
     color: rgb(216,216,216);
+    margin-top: 5px;
 }
 .container p{
     color:rgb(173,173,173);
+    margin-top: 5px;
     font-size: 18px;
 }
 .container .socials{
